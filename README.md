@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/andonyn19/Bookmark-landing-page)
+- Live Site URL: [fm-blp.pages.dev](https://fm-blp.pages.dev/)
 
 ## My process
 
