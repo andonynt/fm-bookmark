@@ -27,8 +27,7 @@ The designs were created to the following widths:
 
 ### Fonts
 
-- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
-- Weights: 400, 500
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
 
 ## Icons
 
@@ -36,6 +35,4 @@ For the icons in the design, you can choose between using the icons provided or 
 
 Some library suggestions can be found below:
 
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
