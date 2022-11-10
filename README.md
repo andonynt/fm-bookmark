@@ -1,6 +1,6 @@
 # Frontend Mentor - Bookmark landing page solution
 
-This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,11 +33,10 @@ Users should be able to:
 
 ![](./screenshots/menu-active.mobile.png)
 
-
 ### Links
 
-- Solution URL: [Github repo](https://github.com/andonyn19/Bookmark-landing-page)
-- Live Site URL: [fm-blp.pages.dev](https://fm-blp.pages.dev/)
+- Solution URL: [Github repo](https://github.com/andonynt/fm-bookmark)
+- Live Site URL: [fm-bookmark.pages.dev](https://fm-bookmark.pages.dev/)
 
 ## My process
 
@@ -51,10 +50,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [TailwindCSS Doc](https://tailwindcss.com/docs/installation)
+- [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
 
 ## Author
 
-- Andony Nunnez
-- Frontend Mentor - [@andonyn19](https://www.frontendmentor.io/profile/andonyn19)
-- Github - [@andonyn19](https://github.com/andonyn19)
+- Andony Nunnez Timoteo
+- [Github](https://github.com/andonynt)
